@@ -1,4 +1,4 @@
-# weechat
+# weechat 1.9.1
 weechat configuration file: irc client tool for communication
 
 IRC Bouncer < -- > BNC
